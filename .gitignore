@@ -1,2 +1,14 @@
 .vscode
 .DS_Store
+
+# Ignore large ML datasets
+Lab_5/WilliamsBenjamin_Lab6/Exercise1/fashion-mnist_train.csv
+Lab_5/WilliamsBenjamin_Lab6/Exercise1/fashion-mnist_test.csv
+Lab_5/WilliamsBenjamin_Lab6/Exercise2/fashion-mnist_train.csv
+Lab_5/WilliamsBenjamin_Lab6/Exercise2/fashion-mnist_test.csv
+
+# Ignore large zip exports
+*.zip
+
+fashion-mnist_train.csv
+fashion-mnist_test.csv
