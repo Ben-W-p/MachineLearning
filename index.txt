@@ -1,0 +1,101 @@
+PCA
+- HW2
+- Lab_3
+- Lab_7
+
+KNN
+- HW1
+- HW2
+- HW3
+- Lab_1
+- Lab_2
+
+Logistic Regression
+- HW6
+- Lab_5
+- Lab_6
+- Lab_7
+
+Linear Regression
+- HW3
+- HW4
+- HW5
+- Lab_4
+
+RANSAC
+- HW3
+- HW4
+
+Naive Bayes
+- Lab_7
+
+One-Hot Encoding
+- HW2
+- HW5
+
+Label Encoding
+- Lab_7
+
+Feature Scaling
+- HW2
+- Lab_2
+- Lab_3
+- Lab_4
+- Lab_7
+
+Train/Test Split
+- HW1
+- HW2
+- HW5
+- HW6
+- Lab_1
+- Lab_2
+- Lab_5
+- Lab_6
+
+Classification
+- HW1
+- HW2
+- HW3
+- HW6
+- Lab_1
+- Lab_2
+- Lab_5
+- Lab_6
+- Lab_7
+
+Model Evaluation
+- HW1
+- HW2
+- HW3
+- HW6
+- Lab_1
+- Lab_2
+- Lab_5
+- Lab_6
+
+Confusion Matrix
+- HW1
+- HW2
+- HW6
+- Lab_1
+- Lab_2
+- Lab_5
+- Lab_6
+
+Cross Validation
+- HW3
+
+Data Wrangling
+- HW1
+- HW2
+- HW3
+- HW4
+- HW5
+- HW6
+- Lab_1
+- Lab_3
+- Lab_4
+- Lab_5
+- Lab_6
+- Lab_7
