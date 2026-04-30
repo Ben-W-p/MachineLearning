@@ -12,3 +12,27 @@ Lab_5/WilliamsBenjamin_Lab6/Exercise2/fashion-mnist_test.csv
 
 fashion-mnist_train.csv
 fashion-mnist_test.csv
+# Python/env junk
+venv/
+env/
+tfenv/
+__pycache__/
+*.pyc
+
+# JetBrains
+.idea/
+
+# Large datasets
+*.csv
+*.txt
+*.zip
+*.tar.gz
+*.npy
+*.npz
+*.pkl
+*.h5
+*.keras
+
+# Generated reports/images if you don't want them
+*.png
+*.pdf
