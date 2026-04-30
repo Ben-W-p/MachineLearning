@@ -2,16 +2,22 @@ PCA
 - HW2
 - Lab_3
 - Lab_7
+- Lab_8
 
 KNN
+- Honors_Contract
 - HW1
 - HW2
 - HW3
+- Lab_10
 - Lab_1
 - Lab_2
 
 Logistic Regression
+- Honors_Contract
+- HW10
 - HW6
+- Lab_10
 - Lab_5
 - Lab_6
 - Lab_7
@@ -22,6 +28,9 @@ Linear Regression
 - HW5
 - Lab_4
 
+Regression (continuous targets — Keras dense & sklearn MLP)
+- Lab_11 (Exercise 1 — California housing; Exercise 2 — diabetes MLP)
+
 RANSAC
 - HW3
 - HW4
@@ -29,73 +38,145 @@ RANSAC
 Naive Bayes
 - Lab_7
 
+Support Vector Machines (sklearn SVC / kernels)
+- Lab_8
+
+SVM Optimization (dual formulation — scipy.optimize quadratic program)
+- Lab_9
+
+Decision Trees (entropy / Gini; tree plots; predict_proba)
+- HW10
+- Lab_10
+
+Random Forest (ensemble classification)
+- HW10
+
+Convolutional Neural Networks (Keras — Conv2D, pooling, softmax)
+- HW11
+
+Neural Networks (Keras dense regression — California housing; dropout; validation curves)
+- Lab_11
+
+Neural Networks (sklearn MLPRegressor / MLPClassifier)
+- Lab_11
+
+GPU Computing — PyCUDA (CPU vs GPU kernels for KNN / k-means / logistic regression)
+- Honors_Contract
+
+Algorithm Comparison (decision tree vs scaled KNN vs logistic regression)
+- Lab_10
+
+Image Data Augmentation & Generators (ImageDataGenerator — rotation, shifts, flip)
+- HW11
+
+OpenCV preprocessing (BGR↔gray, resize, bitwise_not for inference)
+- HW11
+
 One-Hot Encoding
+- HW10
 - HW2
 - HW5
 
 Label Encoding
+- HW10
 - Lab_7
 
 Feature Scaling
+- Honors_Contract
+- HW11
 - HW2
+- Lab_10
+- Lab_11
 - Lab_2
 - Lab_3
 - Lab_4
 - Lab_7
+- Lab_8
 
-Train/Test Split
+Train/Test Split (including stratified splits)
+- Honors_Contract
+- HW10
+- HW11
 - HW1
 - HW2
 - HW5
 - HW6
+- Lab_10
+- Lab_11
 - Lab_1
 - Lab_2
 - Lab_5
 - Lab_6
+- Lab_8
 
-Classification
+Classification (multi-class / binary pipelines)
+- HW10
+- HW11
 - HW1
 - HW2
 - HW3
 - HW6
+- Honors_Contract
+- Lab_10
+- Lab_11 (Exercise 3 — seeds MLPClassifier)
 - Lab_1
 - Lab_2
 - Lab_5
 - Lab_6
 - Lab_7
+- Lab_8
+- Lab_9
 
-Model Evaluation
+Model Evaluation (accuracy, precision/recall/F1; loss / MAE; reports)
+- HW10
+- HW11
 - HW1
 - HW2
 - HW3
 - HW6
+- Honors_Contract
+- Lab_10
+- Lab_11
+- Lab_1
+- Lab_2
+- Lab_5
+- Lab_6
+- Lab_7
+- Lab_8
+
+Confusion Matrix
+- HW10
+- HW1
+- HW2
+- HW6
+- Lab_10
+- Lab_11 (Exercise 3)
 - Lab_1
 - Lab_2
 - Lab_5
 - Lab_6
 
-Confusion Matrix
-- HW1
-- HW2
-- HW6
-- Lab_1
-- Lab_2
-- Lab_5
-- Lab_6
+Early Stopping / Callbacks (Keras EarlyStopping — monitor validation)
+- HW11
 
 Cross Validation
 - HW3
 
-Data Wrangling
+Data Wrangling (cleaning; mapping codes; categorical handling; merges)
+- HW10
+- HW11
 - HW1
 - HW2
 - HW3
 - HW4
 - HW5
 - HW6
-- Lab_1
+- Honors_Contract
+- Lab_10
+- Lab_11
 - Lab_3
 - Lab_4
 - Lab_5
 - Lab_6
 - Lab_7
+- Lab_8
